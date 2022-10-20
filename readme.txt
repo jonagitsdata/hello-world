@@ -1,1 +1,2 @@
 Hello and welcome to your new Git Repo! What is up world. Looking good in here Jonathan.
+Make sure to add another line to this readme.txt file and save the file again Jonathan! $git diff should show tou the dif
